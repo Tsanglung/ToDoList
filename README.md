@@ -1,6 +1,6 @@
 # 📝 ToDoList App
 
-![Alt text](截圖1.png)
+![](assets/screenShot/截圖1.png)
 
 一個使用 **React Native** 製作的簡易待辦事項應用程式。建立與刪除任務，幫助使用者有效率地管理行程。
 
@@ -23,9 +23,9 @@
 
 ## 📸 截圖
 
-![Alt text](截圖.png)
+![Alt text](assets/screenShot/截圖.png)
 
-![Alt text](截圖2.png)
+![Alt text](assets/screenShot/截圖2.png)
 
 ## 🚀 開始使用
 
