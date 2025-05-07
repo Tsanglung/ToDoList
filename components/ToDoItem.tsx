@@ -30,7 +30,7 @@ export default function ToDoItem({ item, onToggle, onDelete }: Props) {
         />
         <Text
           numberOfLines={2}
-          className={`text-base flex-shrink${
+          className={`text-base flex-shrink ${
             isDone
               ? "line-through text-gray-500 dark:text-gray-400"
               : "text-[#333333] dark:text-gray-100"
