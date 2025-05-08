@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" title="React Native"/>
   &nbsp;&nbsp;
-  <img src="https://seeklogo.com/images/E/expo-logo-01BB2BCFC3-seeklogo.com.png" width="50" title="Expo"/>
+  <img src="https://cdn.simpleicons.org/expo/000000" width="50" title="Expo"/>
   &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="50" title="Tailwind CSS"/>
   &nbsp;&nbsp;
